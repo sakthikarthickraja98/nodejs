@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.22.0",
     "express": "^4.17.1",
+    "helmet": "^4.6.0",
     "joi": "^17.4.2",
     "nodemon": "^2.0.13",
     "underscore": "^1.13.1"
